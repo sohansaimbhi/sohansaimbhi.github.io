@@ -64,19 +64,6 @@ layout: post
         <div class="card-header" id="headingTwo">
           <h5 class="mb-0">
             <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-              <h2>Certifications</h2>
-            </button>
-          </h5>
-        </div>
-        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-          <div class="card-body" style="background-color: rgba(0,0,0,.1);">
-            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-              <ol class="carousel-indicators" style="top: -12.5%">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active" style="display:hidden"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1" class=""></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="2" class="" style="display:hidden"></li>
-              </ol>
-           
               <a class="carousel-control-prev" href="#carouselExampleIndicators"  role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               </a>
