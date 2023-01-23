@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everyone's at risk of a Cyber Attack?
+title: Are you at risk of a Cyber-Attack?
 subtitle: by Sohan Saimbhi
 cover-img: [/assets/img/path.jpg](https://github.com/sohansaimbhi/sohansaimbhi.github.io/blob/3e28159c80789c221aaf54893f0a8dd78d0a8230/assets/img/kasp-threatmap.png?raw=true)
 thumbnail-img: /assets/img/thumb.png
