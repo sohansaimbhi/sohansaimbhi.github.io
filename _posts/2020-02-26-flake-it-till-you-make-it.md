@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [cybersecurity]
 ---
 
-Cyber attacks are on the rise, and it's more important than ever to understand the risks and how to protect yourself. Whether you're a business owner, an individual, or a government entity, you're at risk of a cyber attack. Here are a few things to keep in mind to help keep you safe.
+Cyber attacks are on the rise, and it's more important than ever to understand the risks and how to protect yourself. Whether you're a business owner, an individual, you're at risk of a cyber attack. Here are a few things to keep in mind to help keep you safe.
 
 First, it's important to understand that cyber attacks can take many forms. Some common types include phishing scams, malware, and ransomware. Phishing scams involve tricking you into providing personal information or login credentials, often through fake emails or websites. Malware is software that's designed to damage or disrupt your computer or network. Ransomware is a type of malware that encrypts your files and demands payment in exchange for the decryption key.
 
