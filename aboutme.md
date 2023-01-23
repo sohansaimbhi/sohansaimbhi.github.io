@@ -14,7 +14,7 @@ layout: post
   </style>
   </head>
   
-  My name is Sohan Saimbhi. I'm attending Rochester Institute of Technology and am interested in the field of Network Security and am extremely curious about Penetration Testing.
+  My name is Sohan Saimbhi. I'm attending Rochester Institute of Technology and am interested in the field of Network Security and Privacy.Also, am extremely obsessed with Penetration Testing.
   
   - I am a Sophomore @ RIT
   - My research interests are Network Security and Privacy.
