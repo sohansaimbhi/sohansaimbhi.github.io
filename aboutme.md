@@ -47,8 +47,7 @@ layout: post
                         <h5 style="text-align: center"> CPTC is Global Collegiate Penetration Testing Competition </h5>
                         <br/>
                         <h5 style="text-align: center">Advanced to Global CPTC Finals 2022-23 Held at @ RIT-New York with only the top 15 teams in the world competing against each other.</h5>
-                      </div>
-                    </div>
+                      
                     
                   
       
