@@ -1,17 +1,21 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+title: Everyone's at risk of a Cyber Attack?
+subtitle: by Sohan Saimbhi
+cover-img: [/assets/img/path.jpg](https://github.com/sohansaimbhi/sohansaimbhi.github.io/blob/3e28159c80789c221aaf54893f0a8dd78d0a8230/assets/img/kasp-threatmap.png?raw=true)
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+share-img: [/assets/img/path.jpg](https://github.com/sohansaimbhi/sohansaimbhi.github.io/blob/3e28159c80789c221aaf54893f0a8dd78d0a8230/assets/img/kasp-threatmap.png?raw=true)
+tags: [cybersecurity]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Cyber attacks are on the rise, and it's more important than ever to understand the risks and how to protect yourself. Whether you're a business owner, an individual, or a government entity, you're at risk of a cyber attack. Here are a few things to keep in mind to help keep you safe.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+First, it's important to understand that cyber attacks can take many forms. Some common types include phishing scams, malware, and ransomware. Phishing scams involve tricking you into providing personal information or login credentials, often through fake emails or websites. Malware is software that's designed to damage or disrupt your computer or network. Ransomware is a type of malware that encrypts your files and demands payment in exchange for the decryption key.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Another important aspect to consider is that cyber attacks can happen to anyone, even small and medium-sized businesses. Smaller companies often have fewer resources to devote to cybersecurity, making them more vulnerable to attacks. Additionally, many small businesses operate online, making them even more susceptible to cyber threats.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+The best way to protect yourself from a cyber attack is to be proactive. This means taking steps to secure your computer and network, such as installing antivirus software, using a firewall, and keeping all of your software up to date. It also means being vigilant about suspicious emails or messages, and not clicking on links or downloading attachments from unknown sources.
+
+Another important step is to ensure that you have a plan in place in case of a cyber attack. This means having regular backups of important data and having a response plan in place that outlines the steps you will take in the event of an attack.
+
+In conclusion, cyber attacks are a real and growing threat, and it's important to take steps to protect yourself. By understanding the risks and taking proactive measures, you can help to keep yourself and your business safe. Remember, cyber security is not just the responsibility of IT department, it is the responsibility of every employee and individual to be vigilant and take steps to protect themselves and their organization from cyber attacks.
