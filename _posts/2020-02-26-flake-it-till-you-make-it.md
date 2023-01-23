@@ -2,7 +2,7 @@
 layout: post
 title: Are you at risk of a Cyber-Attack?
 subtitle: by Sohan Saimbhi
-cover-img: /assets/img/kasp-threatmap.png
+cover-img: assets/img/kasp-threatmap.png
 thumbnail-img: /assets/img/thumb.png
 share-img: assets/img/kasp-threatmap.png
 tags: [cybersecurity]
