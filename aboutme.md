@@ -36,8 +36,7 @@ layout: post
               <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                   <ol class="carousel-indicators" style="top: -12.5%">
                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="1" class=""></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="2" class=""></li>
+            
                   </ol>
                   <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -47,6 +46,9 @@ layout: post
                         <h5 style="text-align: center"> CPTC is Global Collegiate Penetration Testing Competition </h5>
                         <br/>
                         <h5 style="text-align: center">Advanced to Global CPTC Finals 2022-23 Held at @ RIT-New York with only the top 15 teams in the world competing against each other.</h5>
+                      </div>
+                    </div>
+                </div>
                       
                     
                   
