@@ -2,9 +2,9 @@
 layout: post
 title: Are you at risk of a Cyber-Attack?
 subtitle: by Sohan Saimbhi
-cover-img: [/assets/img/path.jpg](https://github.com/sohansaimbhi/sohansaimbhi.github.io/blob/3e28159c80789c221aaf54893f0a8dd78d0a8230/assets/img/kasp-threatmap.png?raw=true)
+cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: [/assets/img/path.jpg](https://github.com/sohansaimbhi/sohansaimbhi.github.io/blob/3e28159c80789c221aaf54893f0a8dd78d0a8230/assets/img/kasp-threatmap.png?raw=true)
+share-img: /assets/img/path.jpg
 tags: [cybersecurity]
 ---
 
