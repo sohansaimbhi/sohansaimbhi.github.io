@@ -41,7 +41,7 @@ layout: post
                   <div class="carousel-inner">
                     <div class="carousel-item active">
                       <div class="d-block w-100" style="height: auto">
-                        <img class="d-block w-100" alt="First slide" src="https://github.com/sohansaimbhi/sohansaimbhi.github.io/blob/0da830c07d46696684c479280169f21dfc9624db/global.png"/>
+                        <img class="d-block w-100" alt="First slide" src="[https://github.com/sohansaimbhi/sohansaimbhi.github.io/blob/0da830c07d46696684c479280169f21dfc9624db/global.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.globenewswire.com%2Fnews-release%2F2022%2F12%2F22%2F2578745%2F0%2Fen%2FPaperclip-Inc-Congratulates-Regional-Finalists-in-8th-Annual-Collegiate-PenTesting-Competition-CPTC.html&psig=AOvVaw3PAFshmEU5z5Di5v0nYiw4&ust=1674550057656000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiW3Jyn3fwCFQAAAAAdAAAAABAE)"/>
                         <br/>
                         <h5 style="text-align: center"> CPTC is Global Collegiate Penetration Testing Competition </h5>
                         <br/>
