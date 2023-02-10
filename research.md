@@ -22,11 +22,12 @@ title: A Deeper Look at IP-ID Behavior in the Wild.
                   <div class="carousel-inner">
                     <div class="carousel-item active">
                       <div class="d-block w-100" style="height: auto">
-                        <img class="d-block w-100" alt="First slide" src="https://github.com/sohansaimbhi/sohansaimbhi.github.io/blob/f73f5ba5b5cbcf51c4d299600e1501957e6114f3/assets/img/ipid1.png?raw=true"/>
+                        <img class="d-block w-100" alt="First slide" src="https://github.com/sohansaimbhi/sohansaimbhi.github.io/blob/b0027150f6c4647dfcf24c39d7d570274dad6395/assets/img/ip1.png?raw=true"/>
                         <br/>
                         <h5 style="text-align: center">A Deeper look at IP-ID Behavior in the Wild </h5>
                         <br/>
                       </div>
+                          
                     </div>
                 </div>
                       
