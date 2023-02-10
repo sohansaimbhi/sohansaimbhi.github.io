@@ -21,9 +21,8 @@ author: Sohan Saimbhi
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Research:
+    - A Deeper Look at IP-ID Behavior in the Wild: "https://sohansaimbhi.github.io/research"
   Author's home: "https://sohansaimbhi.github.io"
 
 ################
