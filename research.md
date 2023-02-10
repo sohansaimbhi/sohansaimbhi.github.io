@@ -7,7 +7,7 @@ title: A Deeper Look at IP-ID Behavior in the Wild.
         <div class="card-header" id="headingOne">
           <h5 class="mb-0">
             <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              <h2 color="black">A Deeper look at IP-ID Behavior in the Wild - click me :)</h2>
+              <h2 color="black">A Deeper look at IP-ID Behavior in the Wild</h2>
             </button>
           </h5>
         </div>
