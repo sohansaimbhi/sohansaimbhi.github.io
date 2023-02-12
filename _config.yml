@@ -49,7 +49,6 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "sss3287@rit.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: sss3287
   twitter: SaimbhiSohan
 #  medium: yourname
@@ -69,7 +68,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+  discord: sohansaimbhi#5753
 #  kaggle: yourname
 #  hackerrank: yourname
 
